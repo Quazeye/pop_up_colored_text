@@ -1,9 +1,11 @@
 // Initialize variables
-color = -1;
-currentX = x;
-currentY = y;
-currentAlpha = 1;
-text = -1;
+i = 0;
+
+color[0] = -1;
+currentX[0] = x;
+currentY[0] = y;
+currentAlpha[0] = 1;
+text[0] = -1;
 
 // Some different types
 DAMAGE_COLOR = 0;
