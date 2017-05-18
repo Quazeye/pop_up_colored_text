@@ -8,7 +8,7 @@ if (keyboard_check_pressed(vk_control)) {
 }
 
 if (keyboard_check_pressed(vk_shift)) {
-	scr_storeText(LVLUP_COLOR, "Level Up!");
+	scr_storeText(LVLUP_COLOR, "Cat Up!");
 }
 
 if (keyboard_check_pressed(vk_space)) {
