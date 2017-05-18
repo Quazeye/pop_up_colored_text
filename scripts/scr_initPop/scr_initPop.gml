@@ -5,7 +5,7 @@ color[0] = -1;
 currentX[0] = x;
 currentY[0] = y;
 currentAlpha[0] = 1;
-text[0] = -1;
+text[0] = "";
 
 // Some different types
 DAMAGE_COLOR = 0;
